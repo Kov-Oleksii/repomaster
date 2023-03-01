@@ -1,2 +1,2 @@
 # repomaster
-{name: Lesha, key:qwerty54321}
+{name: Lesha, key: qwerty54321}
